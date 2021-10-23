@@ -1,15 +1,15 @@
 <div align="center">
 
-## Its_me_Amal 
+## ɪͥᴛͭsᷤ ᴍͫᴇͤ JOTASAB 
 
 <div align="center">
-  <img src=https://www.linkpicture.com/q/IMG-20210819-WA1189.jpg>
+  <img src="jota.jpg">
 
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/Lvtl7GqERfP19Na6M2wndX)
+  ![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)(ask to jota)
   <div align="center">
        
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farhan-dqz&repo=PublicBot&theme=nightowl)](https://github.com/farhan-dqz/PublicBot)
@@ -31,7 +31,7 @@ If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Te
 bash <(curl -L https://t.ly/tHxh)
 ``` 
   
-### Its_me_Amal
+### ɪͥᴛͭsᷤ ᴍͫᴇͤ JOTASAB
 
 
 ### ⚠️ Warning! 
@@ -45,10 +45,10 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Amalser](<img src=https://www.linkpicture.com/q/IMG-20210629-WA0181.jpg>
- https://github.com/Amalser_v1 |  
+  [![ɪͥᴛͭsᷤ ᴍͫᴇͤ JOTASAB](<img src=jota.jpg>
+ https://github.com/JOTASAB |  
 ----|
-[Its_me_Amal](https://github.com/Amalser_v1)  |
+[ɪͥᴛͭsᷤ ᴍͫᴇͤ JOTASAB](https://github.com/JOTASAB)  |
 Base, Bug Fixes, Modules | 
   
     
