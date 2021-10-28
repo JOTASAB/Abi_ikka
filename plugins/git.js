@@ -11,15 +11,15 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
     
     
    
-  r_text[0] = "https://i.imgur.com/yCYYyEJ.jpeg";
+  r_text[0] = "https://imgur.com/gallery/onoj4wA.jpeg";
     
     
     var i = Math.floor(1*Math.random())
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*creater Amal*
-*owner number wa.me/919895828468*
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*creater JOTASAB*
+*owner number wa.me/917994585361*
 
 *bot setting video : coming soon*
 
